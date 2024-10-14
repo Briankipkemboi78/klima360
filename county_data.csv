@@ -1,0 +1,48 @@
+county,Average Yearly Rainfall (mm),Average Temperature (°C),Farm Size (ha),Dominant Crop,Other Crops,Location,Farming Practices,Climate Risk,Financial Risk,Market Risk,Risk Level
+Baringo,850,24,3,Maize,"beans, livestock",Rift Valley,"Mixed farming, agro-pastoralism",Moderate,Low,Low,Moderate
+Bomet,1350,20,2,Tea,"dairy, maize",Rift Valley,"Small-scale farming, tea plantations",Low,Moderate,Low,Moderate
+Bungoma,1500,23,2,Sugarcane,"maize, dairy",Western,"Crop rotation, intercropping",Low,Moderate,Low,Moderate
+Busia,1500,25,2,Maize,"cassava, fishing",Western,"Subsistence farming, fishing",Moderate,Moderate,Low,Moderate
+Elgeyo-Marakwet,1250,20,3,Dairy,"maize, potatoes",Rift Valley,"Mixed farming, terracing",Low,Low,High,High
+Embu,1350,20,2,Coffee,"tea, horticulture",Eastern,"Agroforestry, small-scale farming",Low,Moderate,Low,Moderate
+Garissa,250,31,7,Livestock,horticulture,North Eastern,"Pastoralism, irrigation",High,High,High,High
+Homabay,1500,25,2,Fishing,"maize, sugarcane",Nyanza,"Fishing, crop rotation",Moderate,High,High,High
+Isiolo,300,31,7,Livestock,horticulture,Eastern,"Pastoralism, irrigation",High,High,High,High
+Kajiado,650,24,7,Livestock,"maize, beans",Rift Valley,"Agro-pastoralism, mixed farming",High,High,High,High
+Kakamega,1900,23,2,Sugarcane,"maize, dairy",Western,"Crop rotation, intercropping",Low,Moderate,Low,Moderate
+Kericho,2000,20,2,Tea,"dairy, maize",Rift Valley,"Tea plantations, small-scale farming",Low,Moderate,Low,Moderate
+Kiambu,1250,20,2,Coffee,"tea, horticulture",Central,"Agroforestry, small-scale farming",Low,Moderate,Low,Moderate
+Kilifi,1000,27,3,Coconut,"cashew nuts, mangoes",Coast,"Plantation farming, mixed farming",Moderate,Low,Low,Moderate
+Kirinyaga,1350,20,2,Coffee,"tea, horticulture",Central,"Agroforestry, small-scale farming",Low,Moderate,Low,Moderate
+Kisii,1750,23,2,Tea,"coffee, bananas",Nyanza,"Small-scale farming, agroforestry",Low,Moderate,Low,Moderate
+Kisumu,1500,25,2,Sugarcane,"rice, fishing",Nyanza,"Irrigation, crop rotation",Moderate,Moderate,Low,Moderate
+Kitui,650,25,3,Livestock,"maize, beans",Eastern,"Agro-pastoralism, mixed farming",High,High,High,High
+Kwale,1000,27,3,Coconut,"cashew nuts, mangoes",Coast,"Plantation farming, mixed farming",Moderate,Low,Low,Moderate
+Laikipia,650,20,7,Livestock,"horticulture, maize",Rift Valley,"Mixed farming, agro-pastoralism",High,High,High,High
+Lamu,1000,27,3,Coconut,"cashew nuts, fishing",Coast,"Plantation farming, fishing",Moderate,Low,Low,Moderate
+Machakos,650,24,3,Livestock,"maize, beans",Eastern,"Agro-pastoralism, mixed farming",High,High,High,High
+Makueni,650,24,3,Livestock,"maize, beans",Eastern,"Agro-pastoralism, mixed farming",High,High,High,High
+Mandera,250,31,7,Livestock,horticulture,North Eastern,"Pastoralism, irrigation",High,High,High,High
+Marsabit,300,31,7,Livestock,horticulture,Eastern,"Pastoralism, irrigation",High,High,High,High
+Meru,1350,20,2,Tea,"coffee, bananas",Eastern,"Agroforestry, small-scale farming",Low,Moderate,Low,Moderate
+Migori,1500,25,2,Sugarcane,"maize, fishing",Nyanza,"Crop rotation, fishing",Moderate,Moderate,Low,Moderate
+Mombasa,1100,27,3,Coconut,"cashew nuts, mangoes",Coast,"Plantation farming, mixed farming",Moderate,Low,Low,Moderate
+Muranga,1350,20,2,Coffee,"tea, horticulture",Central,"Agroforestry, small-scale farming",Low,Moderate,Low,Moderate
+Nairobi,900,22,2,Horticulture,"dairy, poultry",Nairobi,"Urban farming, small-scale farming",Moderate,Moderate,Low,Moderate
+Nakuru,1075,20,3,Maize,"dairy, potatoes",Rift Valley,"Mixed farming, crop rotation",Low,Low,Low,Low
+Nandi,1500,20,2,Tea,"dairy, maize",Rift Valley,"Small-scale farming, tea plantations",Low,Moderate,Low,Moderate
+Narok,1250,20,7,Livestock,"maize, wheat",Rift Valley,"Agro-pastoralism, mixed farming",Low,High,High,High
+Nyamira,1750,23,2,Tea,"coffee, bananas",Nyanza,"Small-scale farming, agroforestry",Low,Moderate,Low,Moderate
+Nyandarua,1350,20,2,Dairy,"potatoes, horticulture",Central,"Mixed farming, small-scale farming",Low,Moderate,High,High
+Nyeri,1350,19,2,Coffee,"tea, dairy",Central,"Agroforestry, small-scale farming",Low,Moderate,Low,Moderate
+Samburu,300,31,7,Livestock,horticulture,Rift Valley,"Pastoralism, irrigation",High,High,High,High
+Siaya,1500,25,2,Maize,"cassava, fishing",Nyanza,"Subsistence farming, fishing",Moderate,Moderate,Low,Moderate
+Taita-Taveta,650,24,3,Livestock,"horticulture, maize",Coast,"Mixed farming, agro-pastoralism",High,High,High,High
+Tana River,300,31,7,Livestock,horticulture,Coast,"Pastoralism, irrigation",High,High,High,High
+Tharaka-Nithi,1250,20,2,Coffee,"tea, horticulture",Eastern,"Agroforestry, small-scale farming",Low,Moderate,Low,Moderate
+Trans Nzoia,1500,20,3,Maize,"dairy, horticulture",Rift Valley,"Mixed farming, crop rotation",Low,Low,Low,Low
+Turkana,250,31,7,Livestock,"horticulture, fishing",Rift Valley,"Pastoralism, fishing",High,High,High,High
+Uasin Gishu,1500,18,3,Maize,"wheat, dairy",Rift Valley,"Mixed farming, crop rotation",Low,Low,Low,Low
+Vihiga,1750,23,2,Tea,"coffee, dairy",Western,"Small-scale farming, agroforestry",Low,Moderate,Low,Moderate
+Wajir,250,31,7,Livestock,horticulture,North Eastern,"Pastoralism, irrigation",High,High,High,High
+West Pokot,650,24,3,Livestock,"maize, beans",Rift Valley,"Agro-pastoralism, mixed farming",High,High,High,High
