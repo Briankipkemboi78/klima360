@@ -5,15 +5,16 @@ The KLIMA360 platform focuses on addressing the critical challenges of water, en
 
 #### Project Structure
 Files:
-1. Klima.ipynb: This Jupyter Notebook contains the Python code used for data collection, initial analysis, and risk profiling. It includes the following:
+
+##### Klima.ipynb: 
+This Jupyter Notebook contains the Python code used for data collection, initial analysis, and risk profiling. It includes the following:
 
 - Data extraction and preprocessing
 - Risk factor identification
 - Creation of risk profiles based on farm size, crop types, location, and farming practices
 
-2 .KLIMA.pbix: This is a Power BI file that contains a visual dashboard. It provides insights into the data collected, including visualizations of farmer segments, risk levels, and other relevant analytics to help the team make data-driven decisions. The dashboard targets 1200 users and categorizes risk profiles based on various factors such as location, crop types, and farm size.
-
-3. Copy of Klima360 Infopack.pdf: This document outlines the objectives, tasks, and timelines for the project. It serves as a reference for understanding the campaign's goals, including creating risk profiles for farmers, identifying risk factors, and supporting sustainable agricultural practices.
+##### KLIMA.pbix: 
+This is a Power BI file that contains a visual dashboard. It provides insights into the data collected, including visualizations of farmer segments, risk levels, and other relevant analytics to help the team make data-driven decisions. 
 
 #### Project Timeline:
 - Week 1 (October 1–7): Data collection and initial analysis.
@@ -28,23 +29,19 @@ Files:
 
 
 
-How to Use
-Jupyter Notebook (Klima.ipynb):
+### How to Use
+#### Jupyter Notebook (Klima.ipynb):
 
-Ensure you have Python installed with the required libraries (e.g., pandas, numpy, matplotlib).
-Run the notebook to process and analyze the farmer data, and generate insights into the risk profiles.
-Power BI Dashboard (KLIMA.pbix):
+- Ensure you have Python installed with the required libraries (e.g., pandas, numpy, matplotlib).
+- Run the notebook to process and analyze the farmer data, and generate insights into the risk profiles.
 
-Open the file in Power BI Desktop.
-Review the visual analytics and explore different segments of the data to understand farmer risk profiles and trends.
-Infopack (Copy of Klima360 Infopack.pdf):
+#### Power BI Dashboard (KLIMA.pbix):
 
-Refer to this document for project goals, timelines, and key tasks that guide the analysis and strategy for the KLIMA360 campaign.
-Contact Information
+- Open the file in Power BI Desktop.
+- Review the visual analytics and explore different segments of the data to understand farmer risk profiles and trends.
+
+
+##### Contact Information
 For any questions or support, reach out to:
 
-Brian Kipkemboi
-Piano Hub, Brookside Drive
-Phone: +254740749940
-Email: info@klima360.world
-Website: www.klima360.world
+<Brian Kipkemboi>
