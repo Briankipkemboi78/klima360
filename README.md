@@ -40,6 +40,9 @@ This is a Power BI file that contains a visual dashboard. It provides insights i
 - Open the file in Power BI Desktop.
 - Review the visual analytics and explore different segments of the data to understand farmer risk profiles and trends.
 
+#### Google data Studio 
+ - Here is a link to google data studio https://lookerstudio.google.com/reporting/6cbf460c-dee4-4172-aa66-6773d9e2df5e/page/CIVSE/edit
+
 
 ##### Contact Information
 For any questions or support, reach out to:
